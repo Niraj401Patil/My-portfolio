@@ -777,12 +777,19 @@ Below 460
         align-items: center;
             
     }
-    .section-hero-data .hireme-btn{
-        size: 1rem;
-    }
+    
 
     .section-biodata .common-heading{
         font-size: 3rem;
     }
+    .section-contact h2{
+        font-size: 3rem;
+    }
+
+    .section-portfolio h2{
+        font-size: 3rem;
+    }
+
+    
 
 }
